@@ -1,0 +1,13 @@
+div.miCarrusel{
+    max-height: 500px;
+}
+i.miFacebook{
+  font-size: 50px;
+  margin: 100px 600px;  
+  color:#26fd09
+}
+button.btn-info{
+    margin: 0px 300px;
+    color:#b605ec
+    border: 1px;
+}
